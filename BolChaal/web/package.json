@@ -1,0 +1,9 @@
+{
+  "name": "bolchaal-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Configure your web framework\"",
+    "build": "echo \"Configure your web framework\""
+  }
+}

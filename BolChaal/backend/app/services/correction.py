@@ -1,0 +1,1 @@
+"""Language correction service placeholder."""
